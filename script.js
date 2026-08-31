@@ -267,7 +267,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem da constelação de sagitário";
           break;
         case "3":
-          urlNova = 'capricornio-0.jpg';
+          urlNova = 'capricornio.jpg';
           textoprincipal.innerText="Capricornus";
           texto.innerText="Associado à figura do deus Pan ou à cabra Amalteia, que amamentou Zéus. Simboliza ambição, disciplina, perseverança e responsabilidade.";
           descrevefigura.innerText="Imagem da constelação de capricórnio";
