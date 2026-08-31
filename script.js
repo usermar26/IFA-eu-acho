@@ -279,7 +279,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem da constelação de escorpião";
           break;
         case "5":
-          urlNova = 'R.jpg';
+          urlNova = 'aries.jpeg';
           textoprincipal.innerText="Aries";
           texto.innerText="Representa o carneiro com vellocino (lã) de ouro da mitologia grega que salvou Frixo e Hele. Simboliza liderança, coragem, iniciativa e impulso.";
           descrevefigura.innerText="Imagem da constelação de aries";
