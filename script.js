@@ -285,7 +285,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem da constelação de aries";
           break;
         case "6":
-          urlNova = 'OIP.webp';
+          urlNova = 'touro.jpg';
           textoprincipal.innerText="Taurus";
           texto.innerText="Ligado à mitologia do touro branco em que Zéus se transformou para seduzir a princesa Europa. Simboliza estabilidade, determinação, força e apreço pelo conforto.";
           descrevefigura.innerText="Imagem da constelação de touros";
